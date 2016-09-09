@@ -5,7 +5,7 @@ public class Main {
 		System.out.println("Hello World!");
 		String name = "Jonas";
 		System.out.println("My name is " + name);
-		System.out.println("I carry the wind.");
+		System.out.println("I'm carrying the wheel.");
 	}
 
 }
